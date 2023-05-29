@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mikecao/flight": "^2.0",
+        "firebase/php-jwt": "^6.4",
+        "zircote/swagger-php": "^3.3.7",
+        "mflor/pwned": "^4.0",
+        "phpmailer/phpmailer": "^6.8",
+        "spomky-labs/otphp": "^11.2",
+        "pragmarx/google2fa": "^8.0",
+        "twilio/sdk": "^7.3",
+        "vonage/client": "^4.0"
+    }
+}
