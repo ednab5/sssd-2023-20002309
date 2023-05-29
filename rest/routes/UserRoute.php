@@ -1,7 +1,7 @@
 
 <?php
 
-require_once __DIR__.'/../env.class.php';
+require_once __DIR__.'/../config_default.php';
 require_once __DIR__.'/../../phpMailer/src/Exception.php';
 require_once __DIR__.'/../../phpMailer/src/PHPMailer.php';
 require_once __DIR__.'/../../phpMailer/src/SMTP.php';

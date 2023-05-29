@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__.'/../env.class.php';
+require_once __DIR__.'/../config_default.php';
 class BaseDao{
 
     private $conn;
